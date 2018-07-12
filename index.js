@@ -30,6 +30,6 @@ function prependKitten(name) {
   return kittens.concat(name)
 } 
 
-fucntion removeLastKitten(name) {
+function removeLastKitten(name) {
   
 }
